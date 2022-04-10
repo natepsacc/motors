@@ -1,7 +1,10 @@
 .App {
   text-align: center;
 }
-
+#schidtcomotors{
+height:200vh;
+width:auto;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
