@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-const urlone = "https://ipfs.fleek.co/ipfs/bafybeickcaq5fgc6t2ex6ler42t372iwyv6pit2jz7cj7jslbpksa4yl7y";
+const urlone = "https://ipfs.fleek.co/ipfs/bafybeibuhucj4xd4vstpjdq6r66oieluxq6qai64fy7fkoxp3qfp6dlzhy";
 
   return(
 <img alt='schidtcomotors' src={urlone} id='schidtcomotors'></img>
